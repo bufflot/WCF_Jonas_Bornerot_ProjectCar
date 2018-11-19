@@ -1,0 +1,6 @@
+C:\Users\Jonas\source\repos\CarRentalProject\CarRentalProjectFrontEnd\HelloConsoleApp\bin\Debug\HelloConsoleApp.exe.config
+C:\Users\Jonas\source\repos\CarRentalProject\CarRentalProjectFrontEnd\HelloConsoleApp\bin\Debug\HelloConsoleApp.exe
+C:\Users\Jonas\source\repos\CarRentalProject\CarRentalProjectFrontEnd\HelloConsoleApp\bin\Debug\HelloConsoleApp.pdb
+C:\Users\Jonas\source\repos\CarRentalProject\CarRentalProjectFrontEnd\HelloConsoleApp\obj\Debug\HelloConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\source\repos\CarRentalProject\CarRentalProjectFrontEnd\HelloConsoleApp\obj\Debug\HelloConsoleApp.exe
+C:\Users\Jonas\source\repos\CarRentalProject\CarRentalProjectFrontEnd\HelloConsoleApp\obj\Debug\HelloConsoleApp.pdb
